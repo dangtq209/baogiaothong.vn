@@ -1,0 +1,2655 @@
+.mgT5 {
+    margin-top: 5px
+}
+
+.mgT10 {
+    margin-top: 10px
+}
+
+.mgT15 {
+    margin-top: 15px
+}
+
+.mgT20 {
+    margin-top: 20px
+}
+
+.mgT25 {
+    margin-top: 25px
+}
+
+.mgT30 {
+    margin-top: 30px
+}
+
+.mgBt5 {
+    margin-bottom: 5px
+}
+
+.mgBt10 {
+    margin-bottom: 10px
+}
+
+.mgBt15 {
+    margin-bottom: 15px
+}
+
+.mgBt20 {
+    margin-bottom: 20px
+}
+
+.mgBt25 {
+    margin-bottom: 25px
+}
+
+.mgBt30 {
+    margin-bottom: 30px
+}
+
+.mgBt35 {
+    margin-bottom: 35px
+}
+
+.mgBt40 {
+    margin-bottom: 40px
+}
+
+.mgBt45 {
+    margin-bottom: 45px
+}
+
+.mgBt50 {
+    margin-bottom: 50px
+}
+
+.mgL5 {
+    margin-left: 5px
+}
+
+.mgL10 {
+    margin-left: 10px
+}
+
+.mgL15 {
+    margin-left: 15px
+}
+
+.mgL20 {
+    margin-left: 20px
+}
+
+.mgL25 {
+    margin-left: 25px
+}
+
+.mgL30 {
+    margin-left: 30px
+}
+
+.mgR5 {
+    margin-right: 5px
+}
+
+.mgR10 {
+    margin-right: 10px
+}
+
+.mgR15 {
+    margin-right: 15px
+}
+
+.mgR20 {
+    margin-right: 20px
+}
+
+.mgR25 {
+    margin-right: 25px
+}
+
+.mgR30 {
+    margin-right: 30px
+}
+
+.pd5 {
+    padding: 5px
+}
+
+.pd10 {
+    padding: 10px
+}
+
+.pd15 {
+    padding: 15px
+}
+
+.pdT5 {
+    padding-top: 5px
+}
+
+.pdT10 {
+    padding-top: 10px
+}
+
+.pdT15 {
+    padding-top: 15px
+}
+
+.pdT20 {
+    padding-top: 20px
+}
+
+.pdBt5 {
+    padding-bottom: 5px
+}
+
+.pdBt10 {
+    padding-bottom: 10px
+}
+
+.pdBt15 {
+    padding-bottom: 15px
+}
+
+.pdBt20 {
+    padding-bottom: 20px
+}
+
+.pdL5 {
+    padding-left: 5px
+}
+
+.pdL10 {
+    padding-left: 10px
+}
+
+.pdL15 {
+    padding-left: 15px
+}
+
+.pdL20 {
+    padding-left: 20px
+}
+
+.pdL25 {
+    padding-left: 25px
+}
+
+.pdL30 {
+    padding-left: 30px
+}
+
+.pdL45 {
+    padding-left: 45px
+}
+
+.pdR5 {
+    padding-right: 5px
+}
+
+.pdR10 {
+    padding-right: 10px
+}
+
+.pdR15 {
+    padding-right: 15px
+}
+
+.pdR20 {
+    padding-right: 20px
+}
+
+.pdR30 {
+    padding-right: 30px
+}
+
+.pdL0 {
+    padding-left: 0
+}
+
+.pdR0 {
+    padding-right: 0
+}
+
+.fl {
+    float: left
+}
+
+.fr {
+    float: right
+}
+
+.dbl {
+    display: block
+}
+
+.inbl {
+    display: inline-block
+}
+
+.rlt {
+    position: relative
+}
+
+.ct {
+    text-align: center
+}
+
+.txtR {
+    text-align: right
+}
+
+.ovf {
+    overflow: hidden
+}
+
+.w100,
+.width100 {
+    width: 100%
+}
+
+.clear {
+    clear: both
+}
+
+.lh0 {
+    line-height: 0
+}
+
+.wrap {
+    overflow: hidden
+}
+
+body {
+    font-family: Calibri Light, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    color: #505050;
+    line-height: 1.2;
+    background-color: #fff;
+    box-sizing: border-box;
+    font-size: 18px
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    display: initial;
+    margin: 0;
+    font-weight: normal;
+    font-size: initial
+}
+
+p {
+    margin: 10px 0
+}
+
+* {
+    box-sizing: border-box;
+    font-size: 18px
+}
+
+img {
+    vertical-align: middle;
+    border: 0;
+    max-width: 100%;
+    max-height: 100%
+}
+
+b,
+strong {
+    font-weight: bold;
+    font-family: Calibri, Helvetica, Arial, sans-serif
+}
+
+a {
+    text-decoration: none;
+    color: #505050
+}
+
+.main a:hover,
+.footer a:hover {
+    color: #195e7f
+}
+
+header,
+main,
+footer,
+article,
+aside,
+section {
+    display: block
+}
+
+ul {
+    margin: 0;
+    padding: 0
+}
+
+ul li {
+    list-style: none
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s
+}
+
+textarea {
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding: 6px 12px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s
+}
+
+.txtContent::placeholder {
+    font-size: 16px;
+    font-family: Calibri Light, Helvetica, Arial, sans-serif;
+    color: #a0a0a0;
+    font-style: italic
+}
+
+.form-control:focus,
+textarea:focus {
+    border-color: #66afe9;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6)
+}
+
+.form-control::-moz-placeholder,
+textarea::-moz-placeholder {
+    color: #999;
+    opacity: 1
+}
+
+.form-control::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: #000;
+    font-size: 12px
+}
+
+.btn {
+    padding: 7px 10px;
+    border: 1px solid #d9d9d9;
+    background-color: #fff;
+    color: #404040;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+    outline: 0
+}
+
+.btn-primary {
+    background-color: #195e7f;
+    color: #fff
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto
+}
+
+.row {
+    overflow: hidden
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+    box-sizing: border-box
+}
+
+.col-12 {
+    width: 100%
+}
+
+.col-11 {
+    width: 91.66666667%
+}
+
+.col-10 {
+    width: 83.33333333%
+}
+
+.col-9 {
+    width: 75%
+}
+
+.col-8 {
+    width: 66.66666667%
+}
+
+.col-7 {
+    width: 58.33333333%
+}
+
+.col-6 {
+    width: 50%
+}
+
+.col-5 {
+    width: 41.66666667%
+}
+
+.col-4 {
+    width: 33.33333333%
+}
+
+.col-3 {
+    width: 25%
+}
+
+.col-2 {
+    width: 16.66666667%
+}
+
+.col-1 {
+    width: 8.33333333%
+}
+
+@media(min-width:768px) {
+    .container {
+        width: 750px
+    }
+}
+
+@media(min-width:992px) {
+    .container {
+        width: 970px
+    }
+}
+
+@media(min-width:1200px) {
+    .container {
+        width: 1004px
+    }
+}
+
+.icoMeg {
+    display: inline-block;
+    width: 15px;
+    height: 11px;
+    background: url(//test.baogiaothong.vn/images/Untitled-19.png) no-repeat
+}
+
+.icoVid {
+    display: inline-block;
+    width: 15px;
+    height: 11px;
+    background: url(//test.baogiaothong.vn/images/Untitled-17.png) no-repeat
+}
+
+.icoCam {
+    display: inline-block;
+    width: 15px;
+    height: 11px;
+    background: url(//test.baogiaothong.vn/images/Untitled-18.png) no-repeat
+}
+
+.icoStt {
+    display: inline-block;
+    width: 16px;
+    height: 11px;
+    background: url(//test.baogiaothong.vn/images/Untitled-20.png) no-repeat
+}
+
+.icoMtRight {
+    display: inline-block;
+    width: 10px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/Untitled-1.png) no-repeat;
+    float: right;
+    cursor: pointer
+}
+
+.icoMtLeft {
+    display: inline-block;
+    width: 10px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/Untitled-33.png) no-repeat;
+    float: right;
+    cursor: pointer
+}
+
+.icoVidLg {
+    display: inline-block;
+    width: 40px;
+    height: 32px;
+    background: url(//test.baogiaothong.vn/images/icoVidLg.png) no-repeat;
+    position: absolute;
+    top: 50%;
+    margin-top: -16px;
+    left: 50%;
+    margin-left: -20px
+}
+
+.icoVidSm {
+    display: inline-block;
+    width: 20px;
+    height: 16px;
+    background: url(//test.baogiaothong.vn/images/icoVidSmat.png) no-repeat;
+    position: absolute;
+    bottom: 0;
+    left: 0
+}
+
+.icoCamSm {
+    display: inline-block;
+    width: 20px;
+    height: 16px;
+    background: url(//test.baogiaothong.vn/images/icoCamSm.png) no-repeat;
+    position: absolute;
+    bottom: -1px;
+    left: 0
+}
+
+.icoMegSm {
+    display: inline-block;
+    width: 20px;
+    height: 16px;
+    background: url(//test.baogiaothong.vn/images/icoMegSm.png) no-repeat;
+    position: absolute;
+    bottom: -1px;
+    left: 0
+}
+
+.icoSttSm {
+    display: inline-block;
+    width: 21px;
+    height: 16px;
+    background: url(//test.baogiaothong.vn/images/icoSttSm.png) no-repeat;
+    position: absolute;
+    bottom: -1px;
+    left: 0
+}
+
+.icoSlideLeft {
+    display: inline-block;
+    width: 10px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/icoPrevWhite.png) no-repeat;
+    background-size: 10px 18px;
+    position: absolute;
+    top: 22%;
+    left: 10px;
+    cursor: pointer
+}
+
+.icoSlideRight {
+    display: inline-block;
+    width: 10px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/icoNextWhite.png) no-repeat;
+    background-size: 10px 18px;
+    position: absolute;
+    top: 22%;
+    right: 10px;
+    cursor: pointer
+}
+
+.icoPrevNavi {
+    display: inline-block;
+    width: 51px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/Untitled-2.png) no-repeat;
+    vertical-align: middle
+}
+
+.icoNextNavi {
+    display: inline-block;
+    width: 51px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/Untitled-3.png) no-repeat;
+    vertical-align: middle
+}
+
+.icoHotLine {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background: url(//test.baogiaothong.vn/images/Untitled-10.png) no-repeat;
+    vertical-align: -7px
+}
+
+.icoBtt {
+    display: inline-block;
+    width: 30px;
+    height: 26px;
+    background: url(//test.baogiaothong.vn/images/btTop.png) no-repeat
+}
+
+.icoClose {
+    display: inline-block;
+    width: 22px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/icoClose.png) no-repeat;
+    margin-left: 10px
+}
+
+.icoLike {
+    display: inline-block;
+    width: 36px;
+    height: 22px;
+    background: url(//test.baogiaothong.vn/images/icoLike.png) no-repeat
+}
+
+.icoChat {
+    display: inline-block;
+    width: 21px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/icoChat.png) no-repeat
+}
+
+.icoShare {
+    display: inline-block;
+    width: 66px;
+    height: 15px;
+    background: url(//test.baogiaothong.vn/images/icoShare.png) no-repeat
+}
+
+.icoBttNeo {
+    display: inline-block;
+    width: 24px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/icoBttNeo.png) no-repeat
+}
+
+.icoDown {
+    display: inline-block;
+    width: 10px;
+    height: 7px;
+    background: url(//test.baogiaothong.vn/images/Nut-so-xuong-72px.png) no-repeat
+}
+
+.icoCloseGrey {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: url(//test.baogiaothong.vn/images/Nut-chu-X.png) no-repeat
+}
+
+.icoQuote {
+    display: inline-block;
+    width: 32px;
+    height: 25px;
+    background: url(//test.baogiaothong.vn/images/icoQuote.png) no-repeat
+}
+
+.icoSearRed {
+    display: inline-block;
+    width: 29px;
+    height: 29px;
+    background: url(//test.baogiaothong.vn/images/icoSearchRed.png) no-repeat center
+}
+
+.icoGoogleSquare {
+    display: inline-block;
+    background: url(//test.baogiaothong.vn/images/Bieu-tuong4.png) no-repeat;
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    vertical-align: -6px
+}
+
+.icoFacebookSquare {
+    display: inline-block;
+    background: url(//test.baogiaothong.vn/images/Bieu-tuong5.png) no-repeat;
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    vertical-align: -6px
+}
+
+.icoYoutubeSquare {
+    display: inline-block;
+    background: url(//test.baogiaothong.vn/images/Bieu-tuong6.png) no-repeat;
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    vertical-align: -6px
+}
+
+.icoLikeSquare {
+    display: inline-block;
+    background: url(//test.baogiaothong.vn/images/Icon-MXH.png) no-repeat;
+    background-size: 20px 20px;
+    width: 20px;
+    height: 20px;
+    vertical-align: bottom
+}
+
+.header .col2 .ico {
+    display: inline-block;
+    margin-bottom: -11px
+}
+
+#formSear {
+    float: left;
+    width: 60%;
+    display: none
+}
+
+#formSear .form-control {
+    height: 28px
+}
+
+.menu {
+    position: absolute;
+    top: 55px;
+    right: -1px;
+    z-index: 1;
+    width: 230px;
+    display: none;
+    background-color: #f1f0f0
+}
+
+#icoCloseID {
+    display: none;
+    margin-bottom: -9px
+}
+
+.header .col2 .menu a {
+    display: block;
+    padding: 10px 10px 10px 0;
+    border-bottom: 1px solid #ddd;
+    margin-left: 25px;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    text-align: left
+}
+
+.logoInMenu {
+    text-align: left
+}
+
+.header .col2 .menu .logoInMenu a {
+    display: inline-block;
+    border-bottom: 0
+}
+
+.header .col2 .menu .logoInMenu a:first-child {
+    padding-right: 0
+}
+
+.header .col2 .menu .logoInMenu a:last-child {
+    margin-left: 5px;
+    vertical-align: bottom;
+    padding-right: 0
+}
+
+.hotCate {
+    background-color: #f0f0f0;
+    padding: 5px 0;
+    text-align: center
+}
+
+.hotCate a {
+    display: inline-block;
+    font-size: 18px;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    border-right: 1px solid #ddd;
+    padding-right: 10px;
+    margin-right: 10px
+}
+
+.hotCate a:last-child {
+    border-right: 0
+}
+
+.boxTop .first .name {
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 5px;
+    line-height: 1.1;
+    display: block
+}
+
+.boxTop .first .desc p {
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.boxTop .list article {
+    border-top: 1px solid #ddd;
+    padding: 10px 0;
+    margin: 0 10px;
+    overflow: hidden;
+    position: relative
+}
+
+.boxTop .list .img {
+    float: left;
+    width: 46%
+}
+
+.boxTop .inner {
+    padding-left: 49%
+}
+
+.boxTop .inner header {
+    position: absolute;
+    top: 50%;
+    height: 84px;
+    overflow: hidden;
+    margin-top: -42px
+}
+
+.boxTop .list .name {
+    color: #282828
+}
+
+.taiTro {
+    text-align: right;
+    font-size: 12px;
+    color: #c8c8c8
+}
+
+.type1 {
+    background-color: #f0f0f0;
+    border-top: 2px solid #195e7f;
+    overflow: hidden
+}
+
+.type1 .tit {
+    padding: 10px
+}
+
+.type1 .tit a {
+    display: inline-block;
+    font-weight: bold;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    background: url(//test.baogiaothong.vn/images/Untitled-14.png) no-repeat left 1px;
+    padding-left: 25px;
+    color: #195e7f
+}
+
+.type1 .first .name {
+    font-size: 22px;
+    padding: 10px;
+    padding-top: 5px;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    color: #282828;
+    display: block
+}
+
+.type1 .list article {
+    width: 48.6%;
+    float: left
+}
+
+.type1 .list .name {
+    display: block;
+    padding: 5px;
+    color: #282828
+}
+
+.type2 .tit {
+    background-color: #f0f0f0;
+    padding: 7px
+}
+
+.type2 .tit a {
+    display: inline-block;
+    font-weight: bold;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.type2 .first .name {
+    font-size: 22px;
+    color: #282828;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    padding: 5px 0;
+    display: block
+}
+
+.type2 .list article {
+    border-top: 1px solid #eee;
+    padding: 10px 0
+}
+
+.type2 .list .name {
+    display: block;
+    color: #282828
+}
+
+.type3 .tit {
+    background-color: #f0f0f0;
+    padding: 7px;
+    margin-bottom: 10px
+}
+
+.type3 .tit a {
+    display: inline-block;
+    font-weight: bold;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.type3 article {
+    width: 48.5%;
+    float: left
+}
+
+.type3 .name {
+    display: block;
+    padding: 10px 0 25px 0;
+    color: #282828
+}
+
+.pr {
+    border: 1px solid #eee;
+    padding: 10px;
+    overflow: hidden
+}
+
+.pr .img {
+    float: left;
+    width: 39%
+}
+
+.pr .img span {
+    display: inline-block;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    width: 90px;
+    position: absolute;
+    top: 42%;
+    left: -35px;
+    font-size: 12px;
+    color: #000;
+    font-family: Myriad Pro, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.pr .inner {
+    padding-left: 42%
+}
+
+.pr .inner img {
+    width: 70%;
+    margin-top: -10px
+}
+
+.pr .inner .name {
+    font-size: 18px;
+    color: #282828;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.boxEIA .tit a {
+    border-right: 1px solid #ddd;
+    padding-right: 2px;
+    margin-right: 2px;
+    background: 0;
+    padding-left: 0
+}
+
+.boxEIA .tit a:nth-child(3) {
+    border-right: 0
+}
+
+.type1.boxEIA .name,
+.type1.boxXgt .name,
+.type1.boxAtgt .name {
+    padding-bottom: 10px
+}
+
+.boxTdsk .tit {
+    background-color: #f0f0f0;
+    padding: 7px
+}
+
+.boxTdsk .tit a {
+    display: inline-block;
+    font-weight: bold;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.boxTdsk .name {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #000;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px 10px
+}
+
+.navigation {
+    background-color: #a0a0a0;
+    padding: 5px 12px;
+    text-align: center
+}
+
+.navigation li {
+    display: inline-block
+}
+
+.navigation .item {
+    display: block;
+    padding: 0 15px;
+    height: 18px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: #a0a0a0;
+    line-height: 19px;
+    font-family: Tahoma, Calibri, Helvetica, Arial, sans-serif
+}
+
+.navigation .current {
+    color: #195e7f
+}
+
+.boxDbgt .tit,
+.boxDn .tit {
+    background-color: #f0f0f0;
+    padding: 7px
+}
+
+.boxDbgt .tit a,
+.boxDn .tit a {
+    display: inline-block;
+    font-weight: bold;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    color: #195e7f
+}
+
+.boxDbgt .icoMtLeft,
+.boxDn .icoMtLeft {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    margin-top: -9px
+}
+
+.boxDbgt .icoMtRight,
+.boxDn .icoMtRight {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    margin-top: -9px
+}
+
+.boxDbgt .list {
+    border: 1px solid #eee;
+    border-top: 0
+}
+
+.boxDn .tit a {
+    color: #505050
+}
+
+.boxDn .list article {
+    width: 48.6%;
+    float: left
+}
+
+.boxDn .list .name {
+    padding: 5px;
+    display: block
+}
+
+.boxDn .list {
+    overflow: hidden;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+    margin-bottom: 10px
+}
+
+.boxBcb .tit {
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.boxBcb .name {
+    display: block;
+    padding: 10px 10px 10px 22px;
+    border-bottom: 1px solid #eee;
+    position: relative
+}
+
+.boxBcb article:last-child .name {
+    border-bottom: 0
+}
+
+.boxBcb .name:before {
+    content: '';
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    top: 18px;
+    left: 10px;
+    background-color: #195e7f
+}
+
+.boxDntm .tit {
+    background-color: #f0f0f0;
+    padding: 5px 10px
+}
+
+.boxDntm .tit a {
+    display: inline-block;
+    font-weight: bold;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    padding-right: 10px;
+    margin-right: 10px;
+    border-right: 1px solid #ddd;
+    color: #a0a0a0
+}
+
+.boxDntm .tit a:last-child {
+    border-right: 0
+}
+
+.boxDntm .tit .current {
+    color: #195e7f
+}
+
+.boxDntm article {
+    padding-left: 37px;
+    position: relative;
+    border-bottom: 1px solid #eee
+}
+
+.boxDntm .number {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #f0f0f0;
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    text-align: center;
+    margin-top: -11px;
+    font-family: Tahoma, Calibri, Helvetica, Arial, sans-serif
+}
+
+.boxDntm article a {
+    display: block;
+    padding: 10px;
+    padding-left: 0;
+    color: #282828
+}
+
+.boxDntm article:last-child {
+    border-bottom: 0
+}
+
+.boxType article {
+    margin-bottom: 25px
+}
+
+.boxType article:last-child {
+    margin-bottom: 0
+}
+
+.boxType article:last-child .name {
+    border-bottom: 0
+}
+
+.boxType .tit {
+    background-color: #f0f0f0;
+    padding: 5px 10px;
+    margin-bottom: 15px
+}
+
+.boxType .tit a {
+    display: inline-block;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    font-weight: bold
+}
+
+.boxType .name {
+    color: #282828;
+    display: block;
+    margin: 5px 10px 0 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd
+}
+
+.more {
+    font-size: 15px;
+    display: inline-block;
+    background-color: #f0f0f0;
+    padding: 2px 8px;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.more .icoDown {
+    position: static
+}
+
+.type4 .tit {
+    background-color: #f0f0f0;
+    padding: 7px;
+    margin-bottom: 10px
+}
+
+.type4 .tit a {
+    display: inline-block;
+    font-weight: bold;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.type4 .list article:first-child {
+    border-top: 0;
+    padding-top: 0
+}
+
+.footer .row1 {
+    background-color: #f0f0f0;
+    padding: 25px 15px
+}
+
+.footer .row1 ul {
+    width: 50%;
+    float: left
+}
+
+.footer .row1 ul:first-child {
+    padding-right: 25px;
+    border-right: 1px solid #ddd
+}
+
+.footer .row1 ul a {
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    display: block;
+    margin-bottom: 10px
+}
+
+.guiBai {
+    text-align: right
+}
+
+.footer .row2 {
+    background-color: #f0f0f0;
+    padding: 15px 10px 10px 10px;
+    border-top: 1px solid #ddd
+}
+
+.tiengNoi {
+    font-size: 13px;
+    color: #282828;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.lineWhite {
+    border-bottom: 1px solid #fff;
+    margin: 10px 0
+}
+
+.bienTap p {
+    font-size: 13px;
+    color: #282828;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    margin: 5px 0 0 0
+}
+
+.footer .row3 {
+    background-color: #195e7f;
+    padding: 10px;
+    color: #fff;
+    overflow: hidden
+}
+
+.hlqc a {
+    color: #fff;
+    font-size: 15px
+}
+
+.tSoan {
+    font-size: 13px
+}
+
+.gPhep {
+    font-size: 10px;
+    color: #a0a0a0
+}
+
+.footer .row3 .fl {
+    width: 80%
+}
+
+.btTop {
+    text-align: right;
+    padding-top: 35px
+}
+
+.neo {
+    background-color: #f0f0f0;
+    padding: 10px 20px;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px
+}
+
+.neo a {
+    display: inline-block;
+    margin: 0 13px
+}
+
+#formSearNeo {
+    width: 82%;
+    display: inline-block;
+    margin-top: -10px;
+    vertical-align: 7px;
+    display: none
+}
+
+.facebook-neo {
+    display: inline-block;
+    vertical-align: -40px
+}
+
+@media screen and (max-width:320px) {
+    .hotCate a {
+        margin-right: 0px
+    }
+    .type1 .list article,
+    .boxDn .list article {
+        width: 48.4%
+    }
+    .type3 article {
+        width: 48.3%
+    }
+    .navigation .item {
+        padding: 0 10px
+    }
+    .icoPrevNavi,
+    .icoNextNavi {
+        vertical-align: sub
+    }
+    .footer .row2 .inbl {
+        width: 30%
+    }
+    .footer .row2 .inbl:nth-child(2) {
+        margin-right: 0
+    }
+    .neo a {
+        margin: 0 9px
+    }
+    .boxEIA .tit a {
+        padding-right: 2px;
+        margin-right: 0
+    }
+}
+
+@media screen and (min-width:361px) and (max-width:375px) {
+    .pr .img span {
+        font-size: 10px
+    }
+}
+
+@media screen and (min-width:380px) and (max-width:414px) {
+    .header .logo {
+        width: 45%
+    }
+    #formSear .form-control {
+        height: 25px
+    }
+    .type1 .list article,
+    .boxDn .list article {
+        width: 48.79%
+    }
+    .type3 article {
+        width: 48.7%
+    }
+    .neo a {
+        margin: 0 18px
+    }
+}
+
+@media screen and (min-width:480px) and (max-width:568px) {
+    .header {
+        height: 55px
+    }
+    .header .logo {
+        width: 32%
+    }
+    #formSear {
+        width: 85%
+    }
+    #formSear .form-control {
+        height: 25px
+    }
+    .menu {
+        top: 55px
+    }
+    .boxTop .first .name,
+    .type1 .first .name,
+    .type2 .first .name {
+        font-size: 24px
+    }
+    .boxType .tit a,
+    .boxType .name,
+    .type4 .tit a,
+    .hotCate a,
+    .boxTdsk .tit a,
+    .boxTdsk .name,
+    .boxTop .first .desc p,
+    .boxTop .list .name,
+    .boxDntm .tit a,
+    .boxDntm article a,
+    .type1 .tit a,
+    .type1 .list .name,
+    .pr .inner .name,
+    .type2 .tit a,
+    .type2 .list .name,
+    .type3 .tit a,
+    .type3 .name,
+    .boxDbgt .tit a,
+    .boxDn .tit a,
+    .boxDn .list .name,
+    .boxBcb .name,
+    .boxBcb strong.tit,
+    .footer .row1 ul a {
+        font-size: 20px
+    }
+    .taiTro {
+        font-size: 14px
+    }
+    .boxDntm .number,
+    .hlqc a {
+        font-size: 17px
+    }
+    .icoPrevNavi,
+    .icoNextNavi {
+        vertical-align: sub
+    }
+    .bienTap p,
+    .tSoan,
+    .tiengNoi {
+        font-size: 15px
+    }
+    .gPhep {
+        font-size: 12px
+    }
+    .neo a {
+        margin: 0 15px
+    }
+    .footer .row3 .fl {
+        width: 85%
+    }
+    .taiTro {
+        margin-top: 5px
+    }
+    .type1 .list article,
+    .boxDn .list article {
+        width: 49.1%
+    }
+    .type3 article {
+        width: 49%
+    }
+    .ef_menu_active .menu.efMn {
+        height: 277px;
+        overflow: scroll
+    }
+}
+
+@media screen and (min-width:569px) and (max-width:640px) {
+    .header {
+        height: 55px
+    }
+    .header .logo {
+        width: 28%
+    }
+    #formSear {
+        width: 86%
+    }
+    #formSear .form-control {
+        height: 25px
+    }
+    .menu {
+        top: 55px
+    }
+    .boxTop .first .name,
+    .type1 .first .name,
+    .type2 .first .name,
+    .type1 .tit a,
+    .type2 .tit a,
+    .type3 .tit a,
+    .boxTdsk .tit a,
+    .boxDbgt .tit a,
+    .boxDn .tit a,
+    .boxBcb strong.tit,
+    .boxDntm .tit a {
+        font-size: 24px
+    }
+    .boxType .tit a,
+    .boxType .name,
+    .type4 .tit a,
+    .boxTdsk .name,
+    .boxTop .first .desc p,
+    .boxTop .list .name,
+    .boxDntm article a,
+    .type1 .list .name,
+    .pr .inner .name,
+    .type2 .list .name,
+    .type3 .name,
+    .boxDn .list .name,
+    .boxBcb .name,
+    .footer .row1 ul a {
+        font-size: 20px
+    }
+    .taiTro {
+        font-size: 14px
+    }
+    .boxDntm .number,
+    .hlqc a {
+        font-size: 17px
+    }
+    .icoPrevNavi,
+    .icoNextNavi {
+        vertical-align: sub
+    }
+    .bienTap p,
+    .tSoan,
+    .tiengNoi {
+        font-size: 15px
+    }
+    .gPhep {
+        font-size: 12px
+    }
+    .neo a {
+        margin: 0 15px
+    }
+    .footer .row3 .fl {
+        width: 85%
+    }
+    .taiTro {
+        margin-top: 5px
+    }
+    .type3 article,
+    .type1 .list article,
+    .boxDn .list article {
+        width: 49.1%
+    }
+    .type1 .tit a {
+        background-position: left 5px
+    }
+    .hotCate a {
+        font-size: 22px
+    }
+}
+
+@media screen and (min-width:641px) and (max-width:667px) {
+    .header {
+        height: 55px
+    }
+    .header .logo {
+        width: 27%
+    }
+    #formSear {
+        width: 86%
+    }
+    #formSear .form-control {
+        height: 25px
+    }
+    .menu {
+        top: 55px
+    }
+    .boxTop .first .name,
+    .type1 .first .name,
+    .type2 .first .name,
+    .type1 .tit a,
+    .type2 .tit a,
+    .type3 .tit a,
+    .boxTdsk .tit a,
+    .boxDbgt .tit a,
+    .boxDn .tit a,
+    .boxBcb strong.tit,
+    .boxDntm .tit a {
+        font-size: 24px
+    }
+    .boxType .tit a,
+    .boxType .name,
+    .type4 .tit a,
+    .boxTdsk .name,
+    .boxTop .first .desc p,
+    .boxTop .list .name,
+    .boxDntm article a,
+    .type1 .list .name,
+    .pr .inner .name,
+    .type2 .list .name,
+    .type3 .name,
+    .boxDn .list .name,
+    .boxBcb .name,
+    .footer .row1 ul a {
+        font-size: 20px
+    }
+    .taiTro {
+        font-size: 14px
+    }
+    .boxDntm .number,
+    .hlqc a {
+        font-size: 17px
+    }
+    .icoPrevNavi,
+    .icoNextNavi {
+        vertical-align: sub
+    }
+    .bienTap p,
+    .tSoan,
+    .tiengNoi {
+        font-size: 15px
+    }
+    .gPhep {
+        font-size: 12px
+    }
+    .neo a {
+        margin: 0 15px
+    }
+    .footer .row3 .fl {
+        width: 85%
+    }
+    .taiTro {
+        margin-top: 5px
+    }
+    .type1 .list article,
+    .boxDn .list article {
+        width: 49.25%
+    }
+    .type3 article {
+        width: 49.2%
+    }
+    .type1 .tit a {
+        background-position: left 5px
+    }
+    .hotCate a {
+        font-size: 22px
+    }
+    .pr .img span {
+        width: auto;
+        left: -37px
+    }
+}
+
+@media screen and (min-width:668px) and (max-width:736px) {
+    .header {
+        height: 55px
+    }
+    .header .logo {
+        width: 24%
+    }
+    #formSear {
+        width: 88%
+    }
+    #formSear .form-control {
+        height: 24px
+    }
+    .menu {
+        top: 55px
+    }
+    .boxTop .first .name,
+    .type1 .first .name,
+    .type2 .first .name,
+    .type1 .tit a,
+    .type2 .tit a,
+    .type3 .tit a,
+    .boxTdsk .tit a,
+    .boxDbgt .tit a,
+    .boxDn .tit a,
+    .boxBcb strong.tit,
+    .hotCate a,
+    .boxDntm .tit a {
+        font-size: 24px
+    }
+    .boxType .tit a,
+    .boxType .name,
+    .type4 .tit a,
+    .boxTdsk .name,
+    .boxTop .first .desc p,
+    .boxTop .list .name,
+    .boxDntm article a,
+    .type1 .list .name,
+    .pr .inner .name,
+    .type2 .list .name,
+    .type3 .name,
+    .boxDn .list .name,
+    .boxBcb .name,
+    .footer .row1 ul a {
+        font-size: 20px
+    }
+    .taiTro {
+        font-size: 14px
+    }
+    .boxDntm .number,
+    .hlqc a {
+        font-size: 17px
+    }
+    .icoPrevNavi,
+    .icoNextNavi {
+        vertical-align: sub
+    }
+    .bienTap p,
+    .tSoan,
+    .tiengNoi {
+        font-size: 15px
+    }
+    .gPhep {
+        font-size: 12px
+    }
+    .neo a {
+        margin: 0 15px
+    }
+    .footer .row3 .fl {
+        width: 85%
+    }
+    .taiTro {
+        margin-top: 5px
+    }
+    .type1 .list article,
+    .boxDn .list article,
+    .type3 article {
+        width: 49.3%
+    }
+    .type1 .tit a {
+        background-position: left 5px
+    }
+}
+
+@media screen and (min-width:812px) {
+    .header {
+        height: 55px
+    }
+    .header .logo {
+        width: 22%
+    }
+    #formSear {
+        width: 89%
+    }
+    .menu {
+        top: 55px
+    }
+    .boxTop .first .name,
+    .type1 .first .name,
+    .type2 .first .name,
+    .type1 .tit a,
+    .type2 .tit a,
+    .type3 .tit a,
+    .boxTdsk .tit a,
+    .boxDbgt .tit a,
+    .boxDn .tit a,
+    .boxBcb strong.tit,
+    .hotCate a,
+    .boxDntm .tit a {
+        font-size: 24px
+    }
+    .boxType .tit a,
+    .boxType .name,
+    .type4 .tit a,
+    .boxTdsk .name,
+    .boxTop .first .desc p,
+    .boxTop .list .name,
+    .boxDntm article a,
+    .type1 .list .name,
+    .pr .inner .name,
+    .type2 .list .name,
+    .type3 .name,
+    .boxDn .list .name,
+    .boxBcb .name,
+    .footer .row1 ul a {
+        font-size: 20px
+    }
+    .taiTro {
+        font-size: 14px
+    }
+    .boxDntm .number,
+    .hlqc a {
+        font-size: 17px
+    }
+    .icoPrevNavi,
+    .icoNextNavi {
+        vertical-align: sub
+    }
+    .bienTap p,
+    .tSoan,
+    .tiengNoi {
+        font-size: 15px
+    }
+    .gPhep {
+        font-size: 12px
+    }
+    .neo a {
+        margin: 0 15px
+    }
+    .footer .row3 .fl {
+        width: 85%
+    }
+    .taiTro {
+        margin-top: 5px
+    }
+    .type1 .list article,
+    .boxDn .list article {
+        width: 49.38%
+    }
+    .type3 article {
+        width: 49.37%
+    }
+    .type1 .tit a {
+        background-position: left 5px
+    }
+}
+
+.clearLeft {
+    clear: left
+}
+
+.ul_jcarousel li,
+.section_related_event {
+    max-width: 720px;
+    width: 100%;
+    float: left;
+    overflow: hidden;
+    box-sizing: border-box
+}
+
+.bre_ttl {
+    box-sizing: border-box;
+    position: absolute;
+    z-index: 222;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 10px 10px;
+    color: #222
+}
+
+.ul_jcarousel {
+    float: left;
+    width: 5000px;
+    position: relative
+}
+
+.jcarousel-pagination a {
+    padding: 3px 6px;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: #a0a0a0;
+    line-height: 19px;
+    margin-right: 4px
+}
+
+.jcarousel-pagination {
+    float: left;
+    width: 100%!important;
+    background: #a0a0a0;
+    text-align: center;
+    overflow: hidden;
+    padding: 6px 0;
+    position: relative;
+    z-index: 10
+}
+
+.jcarousel-pagination a.active,
+.jcarousel-pagination a.focus {
+    background-color: #195e7f;
+    color: #fff!important
+}
+
+.jcarousel {
+    overflow: hidden
+}
+
+.icoPrevSlide,
+.icoNextSlide {
+    width: 50px;
+    height: 50px;
+    background: red
+}
+
+.biz_info_slider_id article {
+    float: left;
+    box-sizing: border-box;
+    padding: 0 5px
+}
+
+.boxDn {
+    padding-bottom: 26px
+}
+
+.biz_info_box {
+    padding: 5px 5px 5px 12px;
+    box-sizing: border-box
+}
+
+.bdEfMnAtv {
+    min-width: 100%;
+    overflow-x: hidden
+}
+
+.bdEfMnAtv .ef_menu {
+    right: 0
+}
+
+.bdEfMnAtv .wr_containt {
+    margin-left: -253px
+}
+
+.bdEfMnAtv .wr_containt:before {
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5)
+}
+
+.ef_menu_active {
+    position: fixed!important;
+    top: 0!important;
+    left: 0!important;
+    width: 100%;
+    z-index: 999;
+    display: block!important
+}
+
+.bdEfMnAtv .efMn {
+    right: 0
+}
+
+.efMn {
+    display: inline;
+    transition: right .5s;
+    -webkit-transition: right .5s;
+    -o-transition: right .5s;
+    -moz-transition: right .5s;
+    width: 250px;
+    position: fixed;
+    z-index: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background: #f2f2f2
+}
+
+.bdEfMnAtv .header .expd {
+    background: url(//test.baogiaothong.vn/images/nav_menu_active.png) no-repeat 15px 11px #f2f2f2;
+    background-size: 17px;
+    height: 47px;
+    padding: 12px 15px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px
+}
+
+.cmt_cancel {
+    width: 50px;
+    text-alig: center
+}
+
+.cmt_submit,
+.cmt_cancel {
+    float: left;
+    margin-right: 8px;
+    margin-top: 6px
+}
+
+.cmt_error_html,
+.cmt_error_html_child {
+    width: 100%;
+    float: left;
+    padding-top: 4px
+}
+
+.cmt_error_html li,
+.cmt_error_html_child li {
+    color: #cc0300
+}
+
+.c_hr {
+    float: left;
+    width: 100%;
+    visibility: hidden;
+    padding: 0;
+    margin: 0
+}
+
+.click_box_cmt,
+.txtContent {
+    display: block;
+    width: 100%;
+    height: 40px;
+    padding: 6px 12px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s
+}
+
+.i_content,
+.i_content_child {
+    font-family: Arial
+}
+
+.box_cmt_root {
+    overflow: hidden
+}
+
+.ul_box_cmt {
+    float: left;
+    width: 100%
+}
+
+.ul_box_cmt li {
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    padding-bottom: 10px
+}
+
+.ul_box_cmt li:nth-child(even) {
+    padding-left: 5px
+}
+
+.ul_box_cmt li:nth-child(odd) {
+    padding-right: 5px
+}
+
+.ul_box_cmt li input {
+    width: 100%
+}
+
+.cpch {
+    float: left;
+    width: 100%;
+    margin-top: 9px
+}
+
+.img_capcha {
+    height: 31px!important;
+    margin-left: 5px
+}
+
+.i_capcha {
+    width: 160px;
+    float: left
+}
+
+.i_capcha_child {
+    width: 153px;
+    float: left
+}
+
+.read_more_cm {
+    display: inline-block;
+    background: #9c0707;
+    font-size: 11px;
+    color: #fff;
+    line-height: 9px;
+    height: 11px;
+    width: 11px;
+    text-align: center
+}
+
+.bx_txt_cmt {
+    margin-top: -10px
+}
+
+.cmt_more {
+    border: 0
+}
+
+.cmt .more {
+    margin: 0 0 20px 0
+}
+
+.cmt_submit_child,
+.cmt_cancel_child {
+    float: left
+}
+
+.bx_cmt_submit_child {
+    width: 100%
+}
+
+.item_cmt {
+    float: left
+}
+
+.box_cmt_child {
+    float: left;
+    width: 100%;
+    padding-left: 44px;
+    margin: -15px 0 15px 0
+}
+
+.div_input_cmt {
+    width: 50%;
+    float: left
+}
+
+.div_input_cmt:nth-child(even) {
+    padding-left: 5px
+}
+
+.div_input_cmt:nth-child(odd) {
+    padding-right: 5px
+}
+
+.div_input_cmt input {
+    width: 100%
+}
+
+.div_input_cmt_01 {
+    margin-top: 10px;
+    float: left;
+    width: 100%
+}
+
+.cpch_child {
+    margin-bottom: 10px
+}
+
+.cmt_submit_child {
+    margin-right: 10px
+}
+
+.div_view_more_cmt_child {
+    margin-top: -10px!important;
+    float: left;
+    width: 100%
+}
+
+.btn_view_more_cmt_child {
+    margin-top: 0!important;
+    margin-bottom: 20px!important
+}
+
+.bx-comment .ct {
+    float: left;
+    width: 100%
+}
+
+.type2 .tit {
+    background-color: #f0f0f0;
+    padding: 7px
+}
+
+.type2 .tit a {
+    display: inline-block;
+    font-weight: bold;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif
+}
+
+.type2 .first .name {
+    font-size: 22px;
+    color: #282828;
+    font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+    padding: 5px 0;
+    display: block
+}
+
+.type2 .list article {
+    border-top: 1px solid #eee;
+    padding: 10px 0
+}
+
+.type2 .list .name {
+    display: block;
+    color: #282828
+}
+
+.read_more_cm {
+    font-size: 14px
+}
+
+.icoClose_atgt {
+    top: -9px;
+    position: relative
+}
+
+#pagin_bsl .btnMove {
+    display: inline-block
+}
+
+.btnMove.btnPrev {
+    margin-right: 4px
+}
+
+.jcarousel-pagination a {
+    padding: 2px 6px 2px 6px
+}
+
+.jcarousel-pagination {
+    z-index: 1000
+}
+
+.navigation .btnPrev {
+    display: inline-block;
+    height: 25px;
+    background-color: #f0f0f0;
+    border-radius: 4px 0 0 4px;
+    position: relative;
+    width: 45px;
+    margin-bottom: -8px
+}
+
+.navigation .btnNext {
+    display: inline-block;
+    height: 25px;
+    background-color: #f0f0f0;
+    padding: 10px 8px;
+    border-radius: 0 4px 4px 0;
+    position: relative;
+    width: 45px;
+    margin-bottom: -8px
+}
+
+.icoPrev {
+    position: absolute;
+    width: 22px;
+    height: 14px;
+    background: url(//test.baogiaothong.vn/images/Bieu-tuong13.png) no-repeat center;
+    top: 50%;
+    left: 50%;
+    margin-top: -7px;
+    margin-left: -11px
+}
+
+.icoNext {
+    position: absolute;
+    width: 22px;
+    height: 14px;
+    background: url(//test.baogiaothong.vn/images/Bieu-tuong12.png) no-repeat center;
+    top: 50%;
+    left: 50%;
+    margin-top: -7px;
+    margin-left: -11px
+}
+
+.navigation .btnNext {
+    display: inline-block;
+    height: 25px;
+    background-color: #f0f0f0;
+    padding: 10px 8px;
+    border-radius: 0 4px 4px 0;
+    position: relative;
+    width: 45px;
+    margin-bottom: -8px
+}
+
+.inneratgt {
+    text-align: left;
+    padding-left: 10px;
+    box-sizing: border-box
+}
+
+.neo_center {
+    width: 330px;
+    height: 26px;
+    margin: 4px auto 0 auto;
+    position: relative
+}
+
+.neo_center .icoSear,
+.neo_center .icoNeoAll,
+.neo_center .icoChat,
+.neo_center .icoBttNeo,
+.neo_center .facebook-neo {
+    float: left
+}
+
+.neo_center .icoBttNeo {
+    margin-right: 0
+}
+
+.neo_center .icoSear {
+    position: relative;
+    z-index: 123
+}
+
+.neo_center .icoChat {
+    width: 29px;
+    height: 26px;
+    margin-right: 0
+}
+
+.neo_center .facebook-neo {
+    vertical-align: initial
+}
+
+.neo_center #formSearNeo {
+    width: 100%;
+    margin-top: -6px;
+    vertical-align: initial;
+    position: absolute;
+    display: none;
+    padding-left: 45px
+}
+
+.neo_center #formSearNeo.show_input {
+    display: block
+}
+
+.neo {
+    padding-left: 0;
+    padding-right: 0
+}
+
+.boxEIA_mobile {
+    position: relative
+}
+
+.boxEIA_mobile .icoMtRight {
+    position: absolute;
+    top: 10px;
+    right: 10px
+}
+
+.cate_icon_r {
+    float: right
+}
+
+.type1 .tit a.icon_thgt {
+    float: right;
+    background: 0
+}
+
+.xegtLogo,
+.bgtLogo {
+    width: 85px
+}
+
+.jcarousel-pagination a {
+    padding: 5px 10px
+}
+
+.mostreadslide {
+    overflow: hidden
+}
+
+.mostreadslide .jcarousel-pagination {
+    background: 0
+}
+
+.jcarousel-pagination-mrn>* {
+    border-radius: 10px;
+    background: #a0a0a0;
+    width: 10px;
+    height: 10px;
+    float: left;
+    margin-right: 3px
+}
+
+.jcarousel-pagination-mrn>.active {
+    background: #cc0300
+}
+
+.jcarousel-pagination-mrn {
+    margin: 0 auto
+}
+
+.ul_jcarousel_mrn .li_jcarousel_mrn {
+    float: left;
+    overflow: hidden;
+    box-sizing: border-box
+}
+
+.ul_jcarousel_mrn {
+    float: left;
+    width: 5000px;
+    position: relative
+}
+
+.li_jcarousel_mrn {
+    float: left
+}
+
+.jcarousel-pagination-mrn a {
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    color: #a0a0a0;
+    line-height: 19px;
+    margin-right: 4px
+}
+
+.jcarousel-pagination-mrn {
+    text-align: center;
+    overflow: hidden;
+    padding: 6px 0;
+    position: relative;
+    z-index: 10
+}
+
+.lg_safety_footer {
+    width: 104px
+}
+
+.lg_bgt_footer {
+    width: 84px
+}
+
+article img {
+    object-fit: cover
+}
+
+.video-js.vjs-paused .vjs-big-play-button {
+    opacity: .3;
+    transform: scale(0.5)
+}
+
+#MOBILE_CENTER1_ATGT,
+#MOBILE_CENTER2_ATGT,
+#MOBILE_CENTER3_ATGT {
+    text-align: center
+}
+
+.sticky_main {
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 9999
+}
+
+.boxTop .inner {
+    padding-left: 49%
+}
+
+.boxTop img {
+    height: auto
+}
+
+.boxThgt img {
+    height: auto
+}
+
+.type2 img {
+    height: auto
+}
+
+.type1 img {
+    height: auto
+}
+
+.footer a:hover {
+    color: #fff
+}
+
+.txtCent {
+    text-align: center;
+}
+
+.center1_mobile img {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+/* BEGIN Vudl fix_kich_thuoc_icon 01_04-2019*/
+.header .col2 {
+    text-align: right;
+}
+.header .col2 a{
+    margin-left: 0px;
+}
+.header {
+    background-color: #195e7f;
+    overflow: hidden;
+    height: 58px;
+}
+.header .logo {
+    float: left;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+
+a.icoSear, a.icoMenu.expd, a.icoTel, span.icoClose {
+    margin-left: 8px;
+    width: 48px;
+    height: 48px;
+    margin-top: 8px;
+}
+
+.icoSear {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background: url(//test.baogiaothong.vn/images/icoSearTop.png) no-repeat;
+    background-position: center;
+    background-size: 55%;
+}
+
+.icoTel {
+    display: inline-block;
+    width: 17px;
+    height: 23px;
+    background: url(//test.baogiaothong.vn/images/Untitled-8.png) no-repeat;
+     background-position: center; 
+}
+
+.icoMenu {
+    display: inline-block;
+    width: 22px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/icoBar.png) no-repeat;  
+    background-position: center;
+    background-size: 55%;
+}
+#formSear {
+    float: left;
+    width: 65%;
+    display: none;
+    margin-top: 17px;
+    margin-left: 5px;
+}
+.icoClose {
+    display: inline-block;
+    width: 22px;
+    height: 18px;
+    background: url(//test.baogiaothong.vn/images/icoClose.png) no-repeat;
+    margin-left: 10px;
+    background-position: center; 
+}
+.menu{
+    top:58px;
+}
+@media screen and (max-width:320px) {
+    .icoSear, .icoTel, .icoMenu{
+        background-size: 70%;
+    }
+    a.icoSear, a.icoMenu.expd, a.icoTel, span.icoClose {   
+        width: 33px;  
+    }
+}
+/* BEGIN Vudl fix_kich_thuoc_icon 01_04-2019*/
+/* BEGIN Vudl toi_uu_hien_thi_box_doc_nhieu 2_4_2019 */
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}   
+.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction{
+    bottom: 1px!important;
+}   
+.swiper-pagination-bullet-active{
+    background: #195e7f!important;
+}
+.mh-swiper{
+    min-height: 330px;
+}
+@media screen and (min-width:641px) and (max-width:667px) {
+    .mh-swiper{
+        min-height: 240px;
+    }  
+}
+@media screen and (min-width:480px) and (max-width:568px) {
+    .mh-swiper{
+        min-height: 290px;
+    } 
+}
+/* END Vudl toi_uu_hien_thi_box_doc_nhieu 2_4_2019 */
+
+/* BEGIN Vudl them_dcma 24_4_2019 */
+.setw70{
+    width: 70%;
+}
+.setw30{
+    width: 30%;
+}
+/* END Vudl them_dcma 24_4_2019 */
+/* BEGIN Vudl fix_can_deu_text_noi_dung 06-06-2019*/
+.bodyArt p{
+    text-align: justify;
+}
+/* END Vudl fix_can_deu_text_noi_dung 06-06-2019*/
+.neo.neo_bottom a.icoSear{
+    margin-top: -11px; 
+}
+.header {
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  height: 58px;
+}

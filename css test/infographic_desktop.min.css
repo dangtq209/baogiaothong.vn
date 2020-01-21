@@ -1,0 +1,264 @@
+/*begin header*/
+.logo{
+	border-right: 0;
+	padding-right: 0;
+	width: 73px;
+}
+.listCate{
+	border-bottom: 1px solid #ddd;
+	margin-left: 5px;
+	width: 775px;
+	padding-top: 12px;
+}
+.listCate .current{
+    font-size: 34px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #CC0300;
+    margin-left: 0;
+    display: inline-block;   
+}
+.listCate a{
+	font-size: 15px;
+	color: #000;
+	margin: 0 5px;
+}
+.listCate a:hover{
+	color: #CC0300;
+}
+.listCate .date{
+	font-size: 12px;
+	color: #000;
+	float: right;
+	padding-top: 23px;
+}
+.logoGT{
+	text-align: right;
+	padding-top: 18px;
+	width: 140px;
+}
+.menu-top>li>a{
+	padding: 10px 5px;
+}
+.menu-top>li:first-child a{
+	padding-left: 0;
+}
+#formSearAlbum{
+	width: 95%;
+	display: none;
+}
+#formSearAlbum .form-control{
+	width: 100%;
+	height: 39px;
+}
+/*end header*/
+
+.main{
+	padding-top: 0;
+	padding-bottom: 50px;
+}
+
+/*begin boxTop*/
+.icoLike{
+	vertical-align: top;
+}
+.boxVhgt .tit a{
+	color: #A0A0A0;
+}
+.boxVhgt .tit .current{
+	font-size: 17px;
+	color: #CC0300;
+	margin-right: 10px;
+}
+.boxVhgt .name{
+	font-size: 45px;
+    font-weight: bold;
+    color: #000000;
+}
+.boxVhgt .date{
+	font-size: 17px;
+	color: #A0A0A0;
+	font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+}
+.boxVhgt .desc{
+	font-size: 36px;
+}
+/*end boxTop*/
+
+/*begin anh noi bat*/
+.boxAnb .tit, .typeAlbum1 .tit{
+	display: block;
+	font-size: 16px;
+	font-weight: bold;
+	color: #CC0300;
+	border-bottom: 1px solid #eee;
+	padding-bottom: 5px;
+	text-transform: uppercase;
+	margin-bottom: 25px;
+}
+.boxAnb article, .typeAlbum1 .list2 article{
+	width: 239px;
+	margin-right: 16px;
+	float: left;
+}
+.boxAnb article:last-child, .typeAlbum1 .list2 article:last-child{
+	margin-right: 0;
+}
+.cateParent{
+	color: #A0A0A0;
+	margin: 5px 0;
+	font-family: Calibri Light, Tahoma, Helvetica, Arial, sans-serif;
+}
+.boxAnb .name, .typeAlbum1 .list2 .name{
+	font-size: 16px;
+	display: block;
+}
+/*end anh noi bat*/
+
+/*begin typeAlbum1*/
+.typeAlbum1 .list1 article{
+	width: 304px;
+	float: left;
+	margin-right: 46px;
+}
+.typeAlbum1 .list1 article:last-child{
+	margin-right: 0;
+}
+.typeAlbum1 .list1 .name{
+	font-size: 15px;
+	font-weight: bold;
+	display: block;
+}
+/*end typeAlbum1*/
+
+.line50{
+	border-bottom: 1px solid #eee;
+	margin: 50px 0;
+}
+
+/*begin rowAlbum col left*/
+.rowAlbum .colLeft{
+	width: 689px;
+	border-right: 1px solid #eee;
+	padding-right: 15px;
+	margin-right: 15px;
+	float: left;
+}
+.rowAlbum .colRight{
+	width: 300px;
+	float: left;
+}
+.boxThgt .inner article{
+	width: 163px;
+}
+.boxDbl article, .type2 .listTop article{
+	width: 314px;
+}
+/*end rowAlbum col left*/
+
+/*begin xem nhieu*/
+.boxXn .tit{
+	display: block;
+	font-size: 15px;
+	padding: 3px 10px;
+	color: #CC0300;
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: #F0F0F0;
+	margin-bottom: 16px;
+}
+.boxXn article{
+	margin-bottom: 40px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 40px;
+}
+.boxXn article:last-child{
+	border-bottom: 0;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+.boxXn .name{
+	font-size: 15px;
+	font-weight: bold;
+}
+.more{
+	font-size: 13px;
+	color: #000000;
+	font-family: Tahoma, Helvetica, Arial, sans-serif;
+	background-color: #F0F0F0;
+	height: 34px;
+	display: inline-block;
+	vertical-align: bottom;
+	padding: 0 10px;
+	line-height: 35px;
+	border: 1px solid #ddd;
+	word-spacing: 0;
+}
+/*end xem nhieu*/
+
+/*begin media*/
+@media screen and (min-width: 768px) and (max-width: 1023px){
+	.listCate{
+		width: 730px;
+		padding-top: 17px;
+	}
+	.listCate .current{
+		font-size: 26px;
+	}
+	.listCate .date{
+		padding-top: 14px;
+	}
+	#formSearAlbum .form-control{
+		height: 38px;
+	}
+	.boxVhgt .img{
+		width: 678px;
+	}
+	.boxVhgt .inner{
+		padding-bottom: 30px;
+	}
+	.boxAnb article, .typeAlbum1 .list2 article{
+		width: 228px;
+	}
+	.typeAlbum1 .list1 article{
+		width: 289px;
+	}
+	.rowAlbum .colLeft{
+		width: 645px;
+	}
+	.boxThgt .inner article{
+		width: 152px;
+	}
+	.boxDbl article{
+		width: 292px;
+	}
+}
+/*end media*/
+/* Vudl fix css 15/12/2018 */
+.listCate a{
+    padding: 0 5px!important;
+    margin: 0!important;
+}
+/* End Vudl fix css 15/12/2018 */
+/* Vudl fix css 18/12/2018 */
+.menu-top a{
+    margin-top: 0;
+}
+/* End Vudl fix css 18/12/2018 */
+.cate_breadcrumb .listCate h1 a{
+    font-size: 15px !important;
+} 
+/* Vudl fix css 28/12/2018 */
+.listCate._is_infographic_cate{
+    padding:6px;
+}
+.listCate._is_infographic_cate .current{
+    font-size: 30px;
+}
+/* End Vudl fix css 28/12/2018 */
+
+/*Begin 16/1/2020: dangtq*/
+.headerBg .container{
+	background-image: none!important;
+}
+/*Begin 16/1/2020: dangtq*/

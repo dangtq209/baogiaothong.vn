@@ -1,0 +1,287 @@
+/*begin header*/
+.logo{
+	border-right: 0;
+	padding-right: 0;
+	width: 73px;
+}
+.listCate{
+	border-bottom: 1px solid #ddd;
+	margin-left: 5px;
+	width: 780px;
+	padding-top: 10px;
+}
+.listCate .current{
+	font-size: 38px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #CC0300;
+	margin-left: 0;
+}
+.listCate a{
+	font-size: 15px;
+	color: #000;
+	margin: 0 5px;
+}
+.listCate a:hover{
+	color: #CC0300;
+}
+.listCate .date{
+	font-size: 12px;
+	color: #000;
+	float: right;
+	padding-top: 26px;
+}
+.logoGT{
+	text-align: right;
+	padding-top: 26px;
+	width: 140px;
+}
+.menu-top>li>a{
+	padding: 10px 5px;
+}
+.menu-top>li:first-child a{
+	padding-left: 0;
+}
+#formSearAlbum{
+	width: 95%;
+	display: none;
+}
+#formSearAlbum .form-control{
+	width: 100%;
+	height: 39px;
+}
+/*end header*/
+
+.main{
+	padding-top: 0;
+	padding-bottom: 50px;
+}
+.emaTxt p{
+	font-size: 21px;
+    font-family: Calibri Light,Tahoma,Arial,sans-serif;
+}
+
+/*begin boxTop*/
+.wrapEma.wrapEmaTop{
+	margin: 30px auto;
+}
+.wrapEma .date{
+	font-size: 17px;
+	color: #A0A0A0;
+	font-family: Calibri, Tahoma, Helvetica, Arial, sans-serif;
+}
+/*end boxTop*/
+
+/*begin author*/
+.author .fl a:first-child img{
+	margin-bottom: -5px;
+}
+.author .name{
+	font-size: 21px;
+	font-weight: bold;
+	font-family: Calibri,Tahoma,Arial,sans-serif;
+}
+/*end author*/
+
+/*begin comment*/
+.cmt .tit{
+	background: url(//cdn.baogiaothong.vn/images/icoChat.png) no-repeat 5px;
+	padding-left: 40px;
+}
+.formCmt{
+	padding: 10px;
+	background-color: #ddd;
+	display: none;
+}
+.formCmt .form-control::placeholder{
+	font-size: 16px;
+	font-family: Calibri Light, Helvetica, Arial, sans-serif;
+	color: #A0A0A0;
+	font-style: italic;
+}
+.formCmt .txtContent{
+	height: 50px;
+}
+.formCmt .row1 .form-control{
+	width: 331.98px;
+}
+.formCmt img{
+	height: 34px;
+}
+.ykbd .tit{
+	font-weight: bold;
+	font-size: 15px;
+	background: url(//cdn.baogiaothong.vn/images/icon-cmtit.png) no-repeat left;
+	background-size: 20px;
+	padding-left: 25px;
+	margin-bottom: 10px;
+}
+.ykbd .avt{
+	width: 35px;
+	height: 35px;
+	float: left;
+}
+.ykbd .inner{
+	padding-left: 45px;
+}
+.ykbd .userName{
+	color: #3b5998;
+	font-weight: bold;
+	margin-right: 10px;
+}
+.ykbd .date{
+	color: #ccc;
+	font-size: 12px;
+	margin-right: 10px;
+}
+.ykbd .rep{
+	color: #999;
+	background: url(//cdn.baogiaothong.vn/images/if_back.png) no-repeat left;
+	background-size: 15px;
+	padding-left: 20px;
+}
+.ykbd .plus{
+	display: inline-block;
+	background: #9C0707;
+	font-size: 11px;
+	color: #fff;
+	line-height: 9px;
+	height: 11px;
+	width: 11px;
+	text-align: center;
+}
+.cmt .more{
+	display: inline-block;
+	background-color: #A0A0A0;
+	color: #fff;
+	padding: 5px 10px;
+	margin-top: 20px;
+}
+/*end comment*/
+
+.wrapEma{
+	width: 688px;
+	margin: 0 auto;
+}
+.boxDbl article{
+	width: 321px;
+}
+
+/*begin media*/
+@media screen and (min-width: 768px) and (max-width: 1023px){
+        .logo {
+            border-right: 0;
+            padding-right: 0;
+            width: 30px!important;
+        }
+        .listCate .current {
+            font-size: 20px;
+        }
+        .listCate .date {
+            font-size: 10px!important;
+            color: #000;
+            float: none;          
+        }
+        .listCate._is_magazine_cate{
+            padding: 0!important;
+        }
+        .logoGT {       
+            padding-top: 0px!important;
+        }
+	.listCate{
+            width: 560px!important;
+	}
+	#formSearAlbum .form-control{
+		height: 38px;
+	}
+	.boxDbl article{
+		width: 321px;
+	}
+}
+/*end media*/
+/*vudl fix 05/12/2018 */
+.div_click_box_cmt{
+    margin-top: 15px;
+}
+/* End vudl fix 05/12/2018 */
+
+/*Vudl fix css 19/12/2018 */
+.ul_box_cmt li {
+    width: 100%;
+}
+.ul_box_cmt li:nth-child(even){
+    padding-left: 0;
+}
+.formCmt {
+    padding: 10px;
+    background-color: #F0F0F0;   
+}
+.cmt .img_capcha {
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    font-size: 15px;
+    font-family: Calibri, Helvetica, Arial, sans-serif;
+    height: 34px;
+    text-align: center;
+    width: 105px;
+}
+.img_capcha {
+    float: left;
+}
+.i_capcha {
+    width: 191px;   
+    margin-left: 8px;
+    border: none;
+    float: none;
+}
+.cmt .btn-primary {
+    font-size: 15px;
+    font-weight: bold;
+    color: #CC0300;
+    background-color: #fff;
+    display: inline-block;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border: 0;
+    font-family: Calibri, Helvetica, Arial, sans-serif;
+    width: 105px;
+    height: 34px;
+    opacity: 1!important;
+}
+.cmt .btn-primary:hover {
+    background-color: #CC0300;
+    color: #fff;
+}
+.cmt_submit, .cmt_cancel {
+    font-size: 15px;
+    display: inline-block;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border: 0;
+    font-family: Calibri, Helvetica, Arial, sans-serif;
+    width: 192px;
+    height: 34px;
+    text-align: center;
+}
+.search_traffic_tivi{
+    position: absolute;
+    top: -2px;
+    right: 3px;
+}
+#box_cmt{
+    overflow: auto;
+}
+/* End Vudl fix css 19/12/2018 */
+/* Vudl fix css 28/12/2018 */
+.listCate._is_magazine_cate{
+    padding:5px;
+}
+/* End Vudl fix css 28/12/2018 */
+.menu-top a{
+    margin-top: 0px;
+}
