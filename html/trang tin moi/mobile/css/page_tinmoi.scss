@@ -1,0 +1,13 @@
+.parent.date {
+	margin-left: 20px;
+}
+@media screen and (width: 360px) {
+	.parent.date {
+		margin-left: 3px;
+	}
+}
+@media screen and (width: 375px) {
+	.parent.date {
+		margin-left: 11px;
+	}
+}
